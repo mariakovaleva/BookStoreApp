@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookStoreApp</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="empty_text_view">No books in stock yet. Please order new books to see them listed here.</string>
+    <string name="empty_placeholder">This view has no text</string>
+    <string name="text_placeholder">This is a placeholder text</string>
+</resources>
