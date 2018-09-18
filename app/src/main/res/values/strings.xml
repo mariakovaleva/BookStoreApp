@@ -4,4 +4,44 @@
     <string name="empty_text_view">No books in stock yet. Please order new books to see them listed here.</string>
     <string name="empty_placeholder">This view has no text</string>
     <string name="text_placeholder">This is a placeholder text</string>
+    <string name="sale_button">SALE</string>
+    <string name="default_quantity">0</string>
+    <string name="hint_book_name">Enter book name (required)</string>
+    <string name="hint_price">Enter price (required)</string>
+    <string name="quantity_minus_button">-</string>
+    <string name="quantity_default">0</string>
+    <string name="quantity_plus_button">+</string>
+    <string name="hint_supplier_name">Enter supplier name (required)</string>
+    <string name="hint_supplier_phone_number">Enter supplier phone number (required)</string>
+    <string name="hint_quantity">Enter quantity (required)</string>
+    <string name="empty_view_text">Your inventory is empty. Why not start with adding some books?</string>
+    <string name="action_delete_all_data">Delete all entries</string>
+    <string name="quantity_negative_alert">Quantity cannot be smaller than 0!</string>
+    <string name="quantity_positive_alert">Ordering more than 100 books is currently not supported</string>
+    <string name="quantity_reduced_alert">Quantity reduced!</string>
+    <string name="details_activity_title_new_book">Add a book</string>
+    <string name="details_activity_title_edit_book">Edit book</string>
+    <string name="details_insert_book_failed">Book couldn\'t be saved</string>
+    <string name="details_insert_book_success">Book updated</string>
+    <string name="details_delete_book_success">Book deleted</string>
+    <string name="details_delete_book_failed">Book couldn\'t be deleted</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="currency_sign">$</string>
+    <string name="call_supplier">Call supplier</string>
+    <string name="call_supplier_failed">Error with the phone number</string>
+    <string name="enter_price_error">Please enter the price</string>
+    <string name="enter_book_name_error">Please enter the book name</string>
+    <string name="enter_supplier_name_error">Please enter the supplier name</string>
+    <string name="enter_phone_error">Please enter the supplier\'s phone</string>
+    <string name="enter_quantity_message">The quantity must be larger than 0</string>
+
+
+
 </resources>
