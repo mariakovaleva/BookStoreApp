@@ -1,5 +1,5 @@
 # BookStoreApp
-The capstone project of the Nanodegree (keeping track of the inventory of a bookstore)
+The capstone project of the Udacity Nanodegree (keeping track of the inventory of a bookstore)
 
 The app contains activities for the user to:
 
