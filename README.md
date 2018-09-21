@@ -10,7 +10,7 @@ The app contains activities for the user to:
 
 The user navigates between the activities using Up/Back Navigation and Intents.
 
-In the Main Activity/Fragment, each list item displays the Product Name, Price, and Quantity.
+In the Main Activity, each list item displays the Product Name, Price, and Quantity.
 
 Each list item also contains a SaleButton that reduces the total quantity of that particular product by one (no negative quantities are displayed). 
 
